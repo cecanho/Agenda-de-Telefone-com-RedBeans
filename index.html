@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Exemplo de agenda com RedBean">
+    <meta name="author" content="Cristiano José Cecanho">
+	<title>Agenda RedBean</title>
+</head>
+<body>
+	<header>
+		<div>
+			<h1>Agenda de telefones</h1>
+			<hr></hr>
+		</div>
+		<div>
+			<a href="novo.html">Novo</a><br />
+			<a href="view_up.php">Atualizar</a><br />
+			<a href="view.php">Mostrar contatos salvos</a><br />	
+			<a href="view_del.php">Apagar um Contato</a><br />	
+			<form name="frm_pesquisar" method="post" action="view_bsc.php">
+				Pesquisar <input xmlns="http://www.w3.org/1999/xhtml" name="pesquisar" value="" id="pesquisar" aria-label="Termos da pesquisa" maxlength="256" dir="auto" autocomplete="off" aria-autocomplete="true" aria-controls="searchSuggestionTable" aria-expanded="false" placeholder="Pesquisar" type="text" />
+				<button>Pesquisar</button>
+			</form>
+		</div>
+	</header>
+</body>
+</html>
