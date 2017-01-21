@@ -15,5 +15,5 @@
 
 <p>O material de apoio pode ser visto <a href="https://docs.google.com/presentation/d/17znUMp0WOzziDm53XVU0hznGL5AJ-6EpkZcbkWfj0bk/edit?usp=sharing">Aqui</a>.</p>
 
-<p>Obrigado e bons estudos!/<p>
+<p>Obrigado e bons estudos!</p>
 <p>Cristiano José Cecanho.</p>
